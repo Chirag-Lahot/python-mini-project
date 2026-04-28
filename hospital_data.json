@@ -1,0 +1,27 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin"
+        }
+    ],
+    "doctors": [
+        {
+            "id": 1,
+            "name": "Dr. Smith",
+            "specialization": "Cardiologist",
+            "timing": "10:00-14:00",
+            "fees": 500
+        },
+        {
+            "id": 2,
+            "name": "Dr. Jane",
+            "specialization": "Dermatologist",
+            "timing": "14:00-18:00",
+            "fees": 400
+        }
+    ],
+    "appointments": []
+}
